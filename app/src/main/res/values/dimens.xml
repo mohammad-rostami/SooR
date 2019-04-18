@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="banner_height">300sp</dimen>
+    <dimen name="slider_height">160sp</dimen>
+    <dimen name="compare_slider_height">120sp</dimen>
+
+    <dimen name="search_bar_height">40sp</dimen>
+    <dimen name="search_bar_padiing">10dp</dimen>
+    <dimen name="top_bar_height">52dp</dimen>
+    <dimen name="tab_bar_height">48dp</dimen>
+    <dimen name="menu_icon">43dp</dimen>
+    <dimen name="home_text">13dp</dimen>
+    <dimen name="tab_text">10dp</dimen>
+    <dimen name="cat_top_text">10dp</dimen>
+    <dimen name="card_name_text">11dp</dimen>
+    <dimen name="card_main_text">10dp</dimen>
+    <dimen name="card_second_text">8dp</dimen>
+    <dimen name="card_main_text_pad">8dp</dimen>
+    <dimen name="card_second_text_pad">4dp</dimen>
+    <dimen name="card_name_text_pad">6dp</dimen>
+
+    <dimen name="size">45dp</dimen>
+    <dimen name="pad">3dp</dimen>
+    <dimen name="width">50dp</dimen>
+    <dimen name="sign_text">11dp</dimen>
+    <dimen name="toolbar_height">40dp</dimen>
+
+</resources>
